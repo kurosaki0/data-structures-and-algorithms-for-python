@@ -16,9 +16,6 @@ class TreeNode:
 
 
 class Solution:
-    def __init__(self):
-        pass
-
     def lowestCommonAncestor(self, root, p, q):
         """
         :type root: TreeNode
